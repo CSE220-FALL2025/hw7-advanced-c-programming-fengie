@@ -1,0 +1,13 @@
+==68756== Memcheck, a memory error detector
+==68756== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==68756== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==68756== Command: ./bin/free_bst02
+==68756== 
+==68756== 
+==68756== HEAP SUMMARY:
+==68756==     in use at exit: 0 bytes in 0 blocks
+==68756==   total heap usage: 12 allocs, 12 frees, 216 bytes allocated
+==68756== 
+==68756== All heap blocks were freed -- no leaks are possible
+==68756== 
+==68756== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
